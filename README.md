@@ -17,5 +17,5 @@ git push -u origin main
 git push
 往后提交
 
-
+git clone 远程仓库地址
 git@github.com:wanshi-dl/dl_001_demo.git
